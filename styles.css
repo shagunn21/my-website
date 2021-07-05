@@ -1,0 +1,106 @@
+
+
+.navbar-brand{
+  color:#FDFEFE;
+  font-size:30px;
+
+  padding:20px;
+  font-family:old english text mt;
+
+}
+.navbar-nav > li{
+  padding-left:10px;
+  padding-right:18px;
+}
+.nav-link {
+color: black !important;
+}
+.nav-item:hover {
+  background-color: #FEFFDE;
+}
+
+p3{
+  padding-top: 10px;
+}
+h1{
+  font-family: papyrus;
+
+
+
+font-size: 50px;
+  padding: 90px;
+  padding-bottom: 10px;
+
+}
+h2{
+  font-family: 'Work Sans', sans-serif;
+
+text-align: center;
+padding-top: 20px;
+
+}
+h4{
+  padding-top: 10px;
+}
+
+p{
+  line-height: 0.4;
+  padding-left: 50px;
+
+}
+
+p3{
+padding:20px;
+}
+.download-button{
+  margin: 5% 3% 5% 0;
+font-family: 'Work Sans', sans-serif;
+text-align: center;
+ position: absolute;
+ margin-left: 14%;
+  }
+
+
+
+  #title{
+  background-color:#FFBCBC;
+}
+#Education{
+  background-color: #FFBCBC;
+}
+#Achievements{
+  text-align: center;
+
+
+}
+#Hobbies{
+  background-color: #FFBCBC;
+}
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+
+}
+.social-icon{
+  margin: 20px 10px;
+  width: 10px;
+
+}
+.form-group{
+  padding: 10px;
+}
+.container-2{
+  padding-left: 380px;
+}
+
+.get-in-touch input[type=text],.get-in-touch input[type=email], .get-in-touch textarea {
+
+background: rgb(235, 241, 245);
+color: rgb(36, 39, 41
+
+}
+.get-in-touch  input:focus, .get-in-touch  textarea:focus {
+outline: 0;
+background: #FFF;
+
+}
